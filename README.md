@@ -1,3 +1,14 @@
+🎯 Purpose
+This dashboard helps restaurant owners and staff:
+
+Manage dishes and pricing with ease
+
+Keep track of reservations and table availability
+
+Monitor order status and customer preferences
+
+Analyze feedback and improve service quality
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
