@@ -1,25 +1,30 @@
 📚 Book Reader Dashboard
 
-A responsive Book Reader Dashboard built with Next.js to manage books, track reading progress, and explore your personal library. It features a clean UI, fast performance, and an organized way to monitor your reading habits.
+A responsive Book Reader Dashboard built with Next.js to manage books, track reading progress, and explore your personal library. It features a clean UI, fast performance, 
+and an organized way to monitor your reading habits.
 
-Install dependencies
+# Install dependencies
 
 npm install
 
-
-Run the development server
+# Run the development server
 
 npm run dev
 
-
-Open in browser
+# Open in browser
 
 http://localhost:3000
 
-⚙️ Build for Production
+# Build for Production
 
 npm run build
 npm start
+
+To Do:
+Add backend apis to include real data
+Add page  Library page , for owned books, tbr, read , Favorites, fav by genre
+Add Page to include Books divided by categories / series
+
 
 
 
