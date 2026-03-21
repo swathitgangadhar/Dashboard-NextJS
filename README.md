@@ -1,34 +1,25 @@
-🎯 Purpose
-This dashboard helps restaurant owners and staff:
+📚 Book Reader Dashboard
 
-Manage dishes and pricing with ease
+A responsive Book Reader Dashboard built with Next.js to manage books, track reading progress, and explore your personal library. It features a clean UI, fast performance, and an organized way to monitor your reading habits.
 
-Keep track of reservations and table availability
+Install dependencies
 
-Monitor order status and customer preferences
+npm install
 
-Analyze feedback and improve service quality
 
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+Run the development server
 
-## Getting Started
-
-First, run the development server:
-
-```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Open in browser
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+http://localhost:3000
+
+⚙️ Build for Production
+
+npm run build
+npm start
+
 
 
