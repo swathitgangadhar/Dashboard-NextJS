@@ -20,6 +20,9 @@ http://localhost:3000
 npm run build
 npm start
 
+
+![Screenshot 2026-03-21 094519](https://github.com/user-attachments/assets/101fbc3a-72e8-4999-b7af-2b601e41b6bc)
+
 # To Do:
 Add backend apis to include real data
 Add page  Library page , for owned books, tbr, read , Favorites, fav by genre
